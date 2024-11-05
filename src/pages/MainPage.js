@@ -45,13 +45,13 @@ const MainPage = () => {
     }
     return (
         <div>
+            <Dz1 name={'Azamat '} age={31} surname={'Zalkarbekov '}/>
             {/*<Header/>*/}
             {/*<div className='btn'>MainPage</div>*/}
             {/**/}
             {/*<Button name={'Open'} color={'primary'}/>*/}
             {/*<Button name={'Close'} color={'error'}/>*/}
             {/*<Button name={'Save'} color={'secondary'}/>*/}
-            <Dz1 name={'Azamat '} age={31} surname={'Zalkarbekov '}/>
             {/*/!*<Footer/>*!/*/}
             {/*<Example name={'Bakyt'}>*/}
             {/*    <div style={{backgroundColor: 'blueviolet'}}>*/}

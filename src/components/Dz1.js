@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 const Dz1 = ({name, surname, age}) => {
     return (
         <div>
@@ -10,5 +9,6 @@ const Dz1 = ({name, surname, age}) => {
         </div>
     );
 };
+
 
 export default Dz1;
