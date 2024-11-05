@@ -13,33 +13,19 @@ const MainPage = () => {
     const toDo = [
 
         {
-
             id: 1,
-
             title: 'coding',
-
             completed: false
-
         },
-
         {
-
             id: 2,
-
             title: 'eat',
-
             completed: false
-
         },
-
         {
-
             id: 3,
-
             title: 'sleep',
-
             completed: false
-
         }
 
     ]
@@ -65,7 +51,7 @@ const MainPage = () => {
             {/*<Button name={'Open'} color={'primary'}/>*/}
             {/*<Button name={'Close'} color={'error'}/>*/}
             {/*<Button name={'Save'} color={'secondary'}/>*/}
-            {/*<Dz1 name={'Bakyt'} age={18}/>*/}
+            <Dz1 name={'Azamat '} age={31} surname={'Zalkarbekov '}/>
             {/*/!*<Footer/>*!/*/}
             {/*<Example name={'Bakyt'}>*/}
             {/*    <div style={{backgroundColor: 'blueviolet'}}>*/}
